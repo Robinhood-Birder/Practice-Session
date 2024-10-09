@@ -1,0 +1,84 @@
+body {
+  background-color: rgb(221, 208, 208);
+  font-family: bell mt;
+}
+
+div {
+  max-width: 1000px;
+  margin: auto;
+}
+img {
+  display: block;
+  width: 90%;
+  border-radius: 50px 130px;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+section {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  padding-left: 55px;
+}
+
+.time {
+  background-image: url(./Background\ 1.jpg);
+  border-radius: 20px;
+  background-size: 800px 300px;
+  background-repeat: no-repeat;
+  font-size: 23px;
+  padding-top: 1px;
+  padding-left: 100px;
+  margin-left: 100px;
+}
+h3 {
+  font-size: 33px;
+}
+
+h2 {
+  padding-left: 55px;
+  padding-top: px;
+  font-size: 40px;
+  color: brown;
+}
+
+p {
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 22px;
+}
+.ingredients {
+  margin-left: 50px;
+  padding-left: 30px;
+  font-size: 23px;
+}
+.instructions {
+  margin-left: 50px;
+  padding-left: 30px;
+  padding-right: 60px;
+  font-size: 23px;
+}
+table{
+  width: 80%;
+  border-collapse: collapse;
+  margin: auto
+  
+}
+td {
+  font-size: 23px;
+  padding: auto;
+  color: rgb(77, 6, 6);
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid black;
+}
+
+.view {
+  padding-left: 400px;
+  padding-top: px;
+  }
+
+.nutrition {
+  margin: ;
+}
